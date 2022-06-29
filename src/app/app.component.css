@@ -1,0 +1,11 @@
+.container{
+    margin-top: 30px;
+}
+input.ng-invalid.ng-touched{
+    border: 1px solid red;
+}
+label{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    
+}
